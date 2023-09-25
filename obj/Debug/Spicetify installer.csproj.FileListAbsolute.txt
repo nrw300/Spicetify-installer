@@ -1,0 +1,13 @@
+C:\Users\njord\Documents\Prive\Spicetify installer\bin\Debug\Spicetify installer.exe.config
+C:\Users\njord\Documents\Prive\Spicetify installer\bin\Debug\Spicetify installer.exe
+C:\Users\njord\Documents\Prive\Spicetify installer\bin\Debug\Spicetify installer.pdb
+C:\Users\njord\Documents\Prive\Spicetify installer\obj\Debug\Spicetify installer.csproj.AssemblyReference.cache
+C:\Users\njord\Documents\Prive\Spicetify installer\obj\Debug\Spicetify installer.csproj.SuggestedBindingRedirects.cache
+C:\Users\njord\Documents\Prive\Spicetify installer\obj\Debug\Interop.AutoItX3Lib.dll
+C:\Users\njord\Documents\Prive\Spicetify installer\obj\Debug\Spicetify installer.csproj.ResolveComReference.cache
+C:\Users\njord\Documents\Prive\Spicetify installer\obj\Debug\Spicetify_installer.Form1.resources
+C:\Users\njord\Documents\Prive\Spicetify installer\obj\Debug\Spicetify_installer.Properties.Resources.resources
+C:\Users\njord\Documents\Prive\Spicetify installer\obj\Debug\Spicetify installer.csproj.GenerateResource.cache
+C:\Users\njord\Documents\Prive\Spicetify installer\obj\Debug\Spicetify installer.csproj.CoreCompileInputs.cache
+C:\Users\njord\Documents\Prive\Spicetify installer\obj\Debug\Spicetify installer.exe
+C:\Users\njord\Documents\Prive\Spicetify installer\obj\Debug\Spicetify installer.pdb
