@@ -23,7 +23,6 @@ namespace Spicetify_installer
         
         private void Form1_Load(object sender, EventArgs e)
         {
-
             auto.AutoItSetOption("SendKeyDelay", 11);
         }
 
